@@ -1,5 +1,4 @@
 import os
-from tabnanny import check
 import ply.lex as lex
 import ply.yacc as yacc
 from tkinter import END, Button, Scrollbar, Tk, Frame, Label, LabelFrame, Entry, Text
